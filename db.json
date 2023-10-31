@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"keys":[{"alg":"RS256","kty":"RSA","use":"sig","e":"AQAB","n":"AJPlNv3OjUKTOgqNyr+U51ltiMuLrxIwL/EcS21GiOuzpDPnGyp50w/GYt5q4sRnBoBt48cv5WRSmTkMPgw8TEV2SGGmA5bdhwDQIH6F8ALR7V6wdqizcDB2FqJXwa4xTvHFjmmuM1qeF0xFHhKNOi/gStGfQ4mh6JXjQBlZW5bDwuDqAwX47HzSt69M9bHdlKBBtuxzhILzBu2J5AvSWQ1rhMZTL9xIGWyZ/aB6jvkXVOmZuPCt4YN2IxKwMHcyqsWrpHF/qwhbIPQdBrm3cdZ8FjcgwV2+16ZR5durySc4U4a8on7tW6Ep4SaFxnozHZXfzcgr6vIFxDyS6eDmqDc=","kid":"afb1f0f2-6b4e-4f83-aafd-b0930342aa42"}]}
